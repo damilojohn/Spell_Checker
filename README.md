@@ -1,1 +1,1 @@
-# Spell checker implemented using Bloom Filters and Python
+# A Bloom filter based spell checker in python
